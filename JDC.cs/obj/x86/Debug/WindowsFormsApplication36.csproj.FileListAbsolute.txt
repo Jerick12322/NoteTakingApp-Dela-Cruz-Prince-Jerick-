@@ -1,0 +1,9 @@
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\WindowsFormsApplication17.Form1.resources
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\WindowsFormsApplication36.Properties.Resources.resources
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.pdb
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\WindowsFormsApplication36.exe
+c:\users\statio135\documents\visual studio 2010\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\x86\Debug\WindowsFormsApplication36.pdb
